@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-jobe
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: ${{ env.SUBSCRIPTION-ID }}
+  SUBSCRIPTION-ID: 'e088f5d6-4511-4dc0-a9e3-a046683d04e8'
   WEBAPP-NAME: az400-webapp-jobe
 
 
